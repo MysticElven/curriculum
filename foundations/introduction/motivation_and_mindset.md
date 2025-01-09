@@ -119,8 +119,6 @@ What to do during your break:
 - Play a quick game.
 - Go for a short walk outside.
 
-Check out this article for [more information on breaks & productivity](https://simpleprogrammer.com/taking-breaks-will-boost-productivity/).
-
 #### Digital distractions
 
 Digital distractions are email and Facebook notifications and time-wasting websites, such as social media. These distractions break your focus and make procrastination tempting. Therefore, they should be avoided during study time.
@@ -160,6 +158,7 @@ Learning any new skill is a journey full of speed bumps and obstacles to overcom
 <div class="lesson-content__panel" markdown="1">
 
 1. To give your motivation a bit of a boost, read about the success of others in the [TOP Discord server's Success Stories forum](https://discord.com/channels/505093832157691914/1089990025162260570).
+1. To learn how taking more breaks will boost your productivity, read this article for [more information on breaks & productivity](https://simpleprogrammer.com/taking-breaks-will-boost-productivity/).
 1. To learn more about the growth mindset, go through the following resources:
    - [Believe you can get better](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve)
    - [Grit](https://ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance)
